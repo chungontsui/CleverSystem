@@ -1,0 +1,11 @@
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\Clever.DA.dll.config
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\Clever.DA.dll
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\Clever.DA.pdb
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\EntityFramework.dll
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\EntityFramework.xml
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\obj\Debug\Clever.DA.csprojResolveAssemblyReference.cache
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\obj\Debug\Clever.DA.csproj.CoreCompileInputs.cache
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\obj\Debug\Clever.DA.dll
+C:\Users\chung\Source\Repos\Clever\Clever.DA\Clever.DA\obj\Debug\Clever.DA.pdb
